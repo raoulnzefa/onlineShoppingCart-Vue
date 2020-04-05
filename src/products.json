@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "name": "OnePlus 6",
+        "price": "450"
+    },
+    {
+        "id": "2",
+        "name": "OnePlus 6T",
+        "price": "600"
+    },
+    {
+        "id": "3",
+        "name": "OnePlus 7",
+        "price": "650"
+    },
+    {
+        "id": "4",
+        "name": "OnePlus 7T",
+        "price": "720"
+    },
+    {
+        "id": "5",
+        "name": "OnePlus 7 Pro",
+        "price": "750"
+    },
+    {
+        "id": "6",
+        "name": "OnePlus 7T Pro",
+        "price": "900"
+    },
+    {
+        "id": "7",
+        "name": "OnePlus 5",
+        "price": "340"
+    },
+    {
+        "id": "8",
+        "name":"OnePlus 5T",
+        "price": "400"
+    },
+    {
+        "id": "9",
+        "name": "OnePlus 8",
+        "price": "1200"
+    },
+    {
+        "id": "10",
+        "name": "OnePlus 8T",
+        "price": "1340"
+    }
+]
